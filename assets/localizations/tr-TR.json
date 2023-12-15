@@ -1,0 +1,52 @@
+{
+    "sign-in": {
+        "title": "Haydi giriş yapalım",
+        "google": "Google ile giriş yap",
+        "apple": "Apple ile giriş yap",
+        "facebook": "Facebook ile giriş yap",
+        "or": "ya da",
+        "button": "Şifre ile giriş yap",
+        "register": "Hesabınız yok mu?",
+        "register-link": "Kaydolun",
+        "button-text": "EN"
+    },
+    "register": {
+        "title": "Hesabınızı oluşturalım",
+        "email": "E-Posta",
+        "password": "Şifre",
+        "password-again": "Şifre Tekrar",
+        "button-text": "Kaydol",
+        "weak-password": "Sağlanan şifre yeterince güçlü değildir, daha güçlü bir şifre deneyiniz.",
+        "email-already-in-use": "{email}, adresi kullanılamaz.",
+        "invalid-email": "Geçersiz email adresi.",
+        "simple-error": "Kaydolma",
+        "user-created": "Hesap oluşturuldu."
+    },
+    "verification": {
+        "verify-title": "Hesabınızı Doğrulayın",
+        "verify-text": "Hesabınızı kullanmmaya başlamak için email adresinizi doğrulammanız gerekmektedir.",
+        "verify-button": "Doğrula",
+        "send-message": "Doğrulama maili {} adresinize gönderildi."
+    },
+    "validate": {
+        "text": {
+            "empty": "Bu alan boş bırakılamaz.",
+            "empty-with-field": "{field} boş bırakılamaz.",
+            "not-valid-mail": "Lütfen geçerli bir e-posta giriniz."
+        },
+        "password": {
+            "minimum-length": "Minimum uzunluk 8.",
+            "maximum-length": "Maximum uzunluk 4096.",
+            "lowercase": "En az bir adet küçük harf içermelidir.",
+            "uppercase": "En az bir adet büyük harf içermelidir.",
+            "numeric": "En az bir adet sayı içermelidir.",
+            "non-alphanumeric": "En az bir adet özel karakter içermelidir.",
+            "not-valid-non-alphanumeric": "Geçersiz özel karakter, izin verlien karakterler:\n^ $ * . [ ] { } ( ) ? \" ! @ # % & / \\ , > < ' : ; | _ ~ `",
+            "second-password-not-valid": "Şifreler eşleşmelidir."
+        }
+    },
+    "welcome": "Hoşgeldiniz",
+    "home-title": "Anasayfa",
+    "keyboard-done": "Tamam",
+    "simple-error": "{} işlemi gerçekleştirilirken, bir hata oluştu."
+}

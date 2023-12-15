@@ -1,0 +1,52 @@
+{
+    "sign-in": {
+        "title": "Let's get you in",
+        "google": "Sign in with Google",
+        "apple": "Sign in with Apple",
+        "facebook": "Sign in with Facebook",
+        "or": "or",
+        "button": "Sign in with password",
+        "register": "Don't have an account yet?",
+        "register-link": "Register",
+        "button-text": "TUR"
+    },
+    "register": {
+        "title": "Let's create an account",
+        "email": "Email",
+        "password": "Password",
+        "password-again": "Password Again",
+        "button-text": "Register",
+        "weak-password": "Password is too weak.",
+        "email-already-in-use": "{email}, email cannot be used.",
+        "invalid-email": "Invalid email address.",
+        "simple-error": "register",
+        "user-created": "Account created."
+    },
+    "verification": {
+        "verify-title": "Verify Your Account",
+        "verify-text": "You must verify your email address to start using your account.",
+        "verify-button": "Verify",
+        "send-message": "Verification e-mail has been sent to your e-mail {}."
+    },
+    "validate": {
+        "text": {
+            "empty": "This field is required.",
+            "empty-with-field": "{field} is required.",
+            "not-valid-mail": "Please enter valid email."
+        },
+        "password": {
+            "minimum-length": "Minimum length is 8.",
+            "maximum-length": "Maximum length is 4096.",
+            "lowercase": "Lowercase character is required.",
+            "uppercase": "Uppercase character is required.",
+            "numeric": "Numeric character is required.",
+            "non-alphanumeric": "Non-alphanumeric character is required.",
+            "not-valid-non-alphanumeric": "Non-alphanumeric character is not valid permitted, characters:\n^ $ * . [ ] { } ( ) ? \" ! @ # % & / \\ , > < ' : ; | _ ~ `",
+            "second-password-not-valid": "Passwords are not equal."
+        }
+    },
+    "welcome": "Welcome",
+    "home-title": "Main",
+    "keyboard-done": "Done",
+    "simple-error": "An error ocurred, during the {} process."
+}

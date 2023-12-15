@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "223057672216",
+    "project_id": "scan-xpert",
+    "storage_bucket": "scan-xpert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223057672216:android:53a3f55d33ef73a97c2b6d",
+        "android_client_info": {
+          "package_name": "com.mucoa.scanxpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223057672216-kd3362u352cmprkd2kli2s769vv3i2a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mucoa.scanxpert",
+            "certificate_hash": "5aed09a66ffd120d060adbdfdaa88b7f24e21a30"
+          }
+        },
+        {
+          "client_id": "223057672216-ri752elv69pgrg7mldgauqh1bc89v7a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUUbx4VZRsXftub1ba7H3a2e0jPwlAtSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223057672216-ri752elv69pgrg7mldgauqh1bc89v7a4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223057672216-e2e8q6d0256334v4s6ji6m1mlmsl57vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mucoa.scanxpert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
